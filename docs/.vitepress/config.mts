@@ -11,8 +11,9 @@ export default defineConfig({
       {
         text: '教材',
         items: [
-          { text: '0. はじめに', link: '/guide/00-introduction' },
-          { text: '1. なぜIcebergか', link: '/guide/01-why-iceberg' },
+          { text: 'はじめに', link: '/guide/00-introduction' },
+          { text: '第1話　月曜の朝、先月の1件を直してと言われた', link: '/guide/01-monday-morning' },
+          { text: 'よくある疑問', link: '/guide/faq' },
         ],
       },
     ],
